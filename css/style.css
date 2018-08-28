@@ -154,6 +154,7 @@ body {
 
 #home p {
     text-align: center;
+    word-wrap: break-word;
 }
 
 
@@ -211,6 +212,7 @@ ul, ol {
     font-family: 'Passion One', cursive;
     text-align: center;
     font-size: 100px;
+    word-wrap: break-word;
 }
 
 

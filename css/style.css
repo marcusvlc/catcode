@@ -108,7 +108,7 @@ body {
 .jumbotron#home, .jumbotron#about, .jumbotron#portfolio{
     background: url(../img/w1.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     background-attachment: fixed;
 }
 

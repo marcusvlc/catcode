@@ -215,6 +215,11 @@ ul, ol {
     word-wrap: break-word;
 }
 
+#logo {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+}
+
 
 #services img {
     width: 150px;
